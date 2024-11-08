@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "DAeeHqyvdjZNo+fT3ze2n8kjLXieXAuFG6sxwRH/Dh4=",
+  "Source": "CapstoneGenerator.Server",
+  "BasePath": "_content/CapstoneGenerator.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
